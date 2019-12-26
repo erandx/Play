@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/rock"
+        style="@style/CategoryStyle"
+        android:background="@color/rock_background"
+        android:fontFamily="@font/luckiest_guy"
+        android:text="@string/category_rock" />
+
+    <TextView
+        android:id="@+id/jazz"
+        style="@style/CategoryStyle"
+        android:background="@color/jazz_background"
+        android:fontFamily="@font/luckiest_guy"
+        android:text="@string/category_jazz" />
+
+    <TextView
+        android:id="@+id/country"
+        style="@style/CategoryStyle"
+        android:background="@color/country_background"
+        android:fontFamily="@font/luckiest_guy"
+        android:text="@string/category_country" />
+
+    <TextView
+        android:id="@+id/hiphop"
+        style="@style/CategoryStyle"
+        android:background="@color/hiphop_background"
+        android:fontFamily="@font/luckiest_guy"
+        android:text="@string/category_hiphop" />
+
+
+</LinearLayout>

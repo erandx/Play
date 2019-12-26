@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Play</string>
+    <string name="splash_main">Play</string>
+    <string name="loading">Loading&#8230;</string>
+
+    <!-- Name of each Music Category -->
+    <string name="category_rock">Rock</string>
+    <string name="category_jazz">Jazz</string>
+    <string name="category_country">Country</string>
+    <string name="category_hiphop">Hip Hop</string>
+    <string name="play_activity">Now Playing</string>
+</resources>

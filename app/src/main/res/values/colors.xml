@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="Yellow">#ffd600</color>
+
+    <!-- Music Genre Colors -->
+    <color name="jazz_background">#7B1FA2</color>
+    <color name="rock_background">#c62828</color>
+    <color name="country_background">#ff6d00</color>
+    <color name="hiphop_background">#4db6ac</color>
+
+
+</resources>
